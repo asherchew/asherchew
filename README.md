@@ -105,6 +105,7 @@ I am particularly interested in the following roles:
 ## 📫 Connect with Me
 Feel free to reach out through the following platforms:
 
+- 🌐 [My Portfolio](https://asher-chew-portfolio.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/asher-chew-chin-hao)
 
 <!--
@@ -119,12 +120,6 @@ I am continuously working on enhancing my skill set. Here’s what I’m current
 - [ ] Docker Essentials: A Developer Introduction
 
 ---
-
-## 📫 Connect with Me
-Feel free to reach out through the following platforms:
-
-- 🌐 [My Portfolio]()
-- 💼 [LinkedIn](https://www.linkedin.com/in/asher-chew-chin-hao)
 
 Here are some ideas to get you started:
 
