@@ -10,6 +10,16 @@ I am currently exploring opportunities to collaborate with forward-thinking team
 
 ---
 
+## 🏆 Current Certification Progress
+I am continuously working on enhancing my skill set. Here’s what I’m currently pursuing:
+- [X] AI Python for Beginners
+- [X] Machine Learning
+- [ ] Deep Learning
+- [ ] Natural Language Processing
+- [ ] First Step Korean
+
+---
+
 ## 🛠️ My Favourite tools
 
 ### 👨‍💻 Programming languages
@@ -109,18 +119,6 @@ Feel free to reach out through the following platforms:
 - 💼 [LinkedIn](https://www.linkedin.com/in/asher-chew-chin-hao)
 
 <!--
----
-
-## 🏆 Current Certification Progress
-I am continuously working on enhancing my skill set. Here’s what I’m currently pursuing:
-- [ ] ITIL 4 Foundation
-- [ ] Harvard's CS50 Computer Science Program
-- [ ] AWS Cloud Practitioner
-- [ ] Google Cloud Fundamentals: Core Infrastructure
-- [ ] Docker Essentials: A Developer Introduction
-
----
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
