@@ -14,7 +14,7 @@ I am currently exploring opportunities to collaborate with forward-thinking team
 I am continuously working on enhancing my skill set. Here’s what I’m currently pursuing:
 - [X] AI Python for Beginners
 - [X] Machine Learning
-- [ ] Deep Learning
+- [X] Deep Learning
 - [ ] Natural Language Processing
 - [ ] First Step Korean
 
