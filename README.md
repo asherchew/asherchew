@@ -15,7 +15,7 @@ I am continuously working on enhancing my skill set. Here’s what I’m current
 - [X] AI Python for Beginners
 - [X] Machine Learning
 - [X] Deep Learning
-- [ ] Natural Language Processing
+- [X] Natural Language Processing
 - [ ] First Step Korean
 
 ---
